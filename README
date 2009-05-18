@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2639
+
+A syntax file for the files used by JLJ (http://umlautllama.com/projects/perl/#jlj), a LiveJournal entry system for the terminal.
+
+Easily supports including either HTML or Markdown (see http://www.vim.org/scripts/script.php?script_id=1242) syntax, and adding your own should be easy as well.
